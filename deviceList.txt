@@ -1,0 +1,28 @@
+BlackBerry Z30
+Blackberry PlayBook
+Galaxy Note 3
+Galaxy Note II
+Galaxy S III
+Kindle Fire HDX
+LG Optimus L70
+Laptop with HiDPI screen
+Laptop with MDPI screen
+Laptop with touch
+Microsoft Lumia 550
+Microsoft Lumia 950
+Nexus 10
+Nexus 4
+Nexus 5
+Nexus 6
+Nexus 7
+Nokia Lumia 520
+Nokia N9
+iPad Mini
+iPhone 4
+Galaxy S5
+Nexus 5X
+Nexus 6P
+iPhone 5
+iPhone 6
+iPhone 6 Plus
+iPad
